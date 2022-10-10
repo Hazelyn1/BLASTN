@@ -1,8 +1,8 @@
 #Started 4/19/22
 #!usr/bin/python3
 #Hazelyn Cates
-#This program parses through a BLASTN output file and prints the alignment number, accession number, length, and score
-#of each alignment
+#This program parses through a BLASTN output file and prints the query ID, query length, alignment number, accession number, length, and score of 
+#the first 10 alignments
 
 
 import re
